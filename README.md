@@ -14,4 +14,4 @@
 * JavaScript
 * CSS
 
-## (Ссылка на GitHub Pages)[]
+## [Ссылка на GitHub Pages](https://eno-tech0.github.io/news-widget-js/)
